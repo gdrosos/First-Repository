@@ -1,2 +1,3 @@
 # First-Repository
-My first repository in order to train 
+This is my first repository 
+Hello World
